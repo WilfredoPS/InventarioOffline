@@ -1,6 +1,6 @@
 # Sistema de Inventario - Offline First
 
-Sistema de gestión de inventario offline-first para empresa de decoración y construcción, desarrollado en Flutter con Isar y Supabase.
+Sistema de gestión de Tienda Deportiva SportTrack  desarrollado en Flutter con Isar y Supabase.
 
 ## Características Principales
 
