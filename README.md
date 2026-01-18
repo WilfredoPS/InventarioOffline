@@ -6,7 +6,7 @@ Sistema de gestión de Tienda Deportiva SportTrack  desarrollado en Flutter con 
 
 ### 🎯 Funcionalidades Implementadas
 
-- ✅ **Gestión de Productos**: Crear, editar y eliminar productos con categorías (alfombras, piso flotante, pisopak, cielo falso, viniles)
+- ✅ **Gestión de Productos**: Crear, editar y eliminar productos con categorías (pelotas, deportivos, canilleras, etc)
 - ✅ **Gestión de Almacenes**: Administrar múltiples almacenes
 - ✅ **Gestión de Tiendas**: Administrar múltiples tiendas
 - ✅ **Gestión de Empleados**: Diferentes roles (admin, encargado_tienda, encargado_almacen, vendedor)
